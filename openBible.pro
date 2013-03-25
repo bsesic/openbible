@@ -19,3 +19,6 @@ HEADERS  += mainwindow.h \
     XmlParser.h
 
 FORMS    += mainwindow.ui
+
+OTHER_FILES += \
+    README

@@ -1,5 +1,17 @@
 README for OpenBible 0.1
 (C) by Benjamin Schnabel 2013
-Benjamin-777@gm.de
+Benjamin-777@gmx.de
 
-This project is still under construction
+This project is still under construction.
+
+Aim:
+We are developing a free and professional bible software for Windows, Linux and Mac.
+The Bibles are based on the Xml format called OpenBibleXml.
+There are GPL and restricted Bible files.
+
+Features: Bible browser, Text editor, flexible search and much more.
+Also a webapp will be available.
+
+Due to license issues there will be a number of propriety books.
+
+Please consider contributing.
